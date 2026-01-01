@@ -19,7 +19,7 @@ Novellis is a privacy-first workspace designed for storytellers, world-builders,
 
 We believe every writer should have access to professional-grade tools.
 - The **Community Version** of Novellis includes all core story-building features and will remain **free forever** for individuals.
-- Advanced features (large-scale consistency checking, franchise collaboration, etc.) will be available in the **Preview/Enterprise** editions.
+- Advanced features (large-scale consistency checking, deep analysis, and novel scope AI research) will be available in the **Preview/Professional** editions.
 
 ## 📥 Getting Started
 
@@ -27,6 +27,8 @@ We believe every writer should have access to professional-grade tools.
 2.  Download the installer for your operating system (`.dmg` for macOS, `.exe` for Windows).
 3.  Install and launch Novellis.
 4.  (Optional) Install [Ollama](https://ollama.ai/) if you wish to run AI models locally.
+5.  Configure your LLM settings (local or cloud) in the application settings.
+
 
 ## 🤝 Community & Support
 
