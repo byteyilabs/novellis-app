@@ -1,11 +1,39 @@
-# Novellis App
+# Novellis
 
-This repository hosts the live version of the Novellis intelligence tool for storytellers and world-builders.
+> **Craft Narrative Universes with Intelligence**
 
-## Main Repository
-The source code for this project can be found in the main repository: [novellis](https://github.com/byteyilabs/novellis).
+Novellis is a privacy-first workspace designed for storytellers, world-builders, and narrative designers. Organize characters, visualize complex relationships, and uncover deep narrative patterns using your choice of local or cloud-based AI.
 
-The `gh-pages` branch of this repository is used for hosting the landing page at [novellis.ai](https://novellis.ai) (or the corresponding GitHub Pages URL).
+[**Download Latest Release**](https://github.com/byteyilabs/novellis-app/releases) | [**Landing Page**](https://byteyilabs.github.io/novellis-app/) | [**Discussions**](https://github.com/byteyilabs/novellis-app/discussions)
 
-## Development
-To make changes to the landing page, please contribute to the source repository.
+---
+
+## 🌌 Core Features
+
+- **Hybrid Story Intel**: Use local models via Ollama for maximum privacy, or connect to cloud vendors (OpenAI/Anthropic) for advanced analysis.
+- **Visual World Graph**: A dynamic network graph that maps connections between characters, locations, and events.
+- **Privacy-First**: Your creative work stays on your machine. We use a local-first architecture to ensure your stories are yours alone.
+- **Intelligent Organization**: Manage series bibles, chapter timelines, and entity metadata in a unified environment.
+
+## 📜 Our Philosophy: Free Forever Community
+
+We believe every writer should have access to professional-grade tools.
+- The **Community Version** of Novellis includes all core story-building features and will remain **free forever** for individuals.
+- Advanced features (large-scale consistency checking, franchise collaboration, etc.) will be available in the **Preview/Enterprise** editions.
+
+## 📥 Getting Started
+
+1.  Head over to the [Releases](https://github.com/byteyilabs/novellis-app/releases) page.
+2.  Download the installer for your operating system (`.dmg` for macOS, `.exe` for Windows).
+3.  Install and launch Novellis.
+4.  (Optional) Install [Ollama](https://ollama.ai/) if you wish to run AI models locally.
+
+## 🤝 Community & Support
+
+- **Found a bug?** [Open an Issue](https://github.com/byteyilabs/novellis-app/issues).
+- **Have an idea?** Join the [Feature Requests](https://github.com/byteyilabs/novellis-app/discussions) discussion.
+- **Need help?** Check out our [Support Repo](https://github.com/byteyilabs/novellis-app).
+
+---
+
+© 2026 ByteYI Labs. Built with ❤️ for storytellers.
