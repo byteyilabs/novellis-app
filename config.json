@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "status": "beta",
+  "features": {
+    "earlyAccess": true,
+    "communityForever": true
+  },
+  "earlyAccess": {
+    "enabled": true,
+    "licenseKey": "eyJlbWFpbCI6IkVhcmx5IEFjY2VzcyBVc2VyIiwidGllciI6InBybyIsInR5cGUiOiJiZXRhIiwiZXhwIjoxNzc0ODIwNDkzOTQ1fQ==.MEUCIQDul9taLVWcyy0+YeTe7fQ2OjksWq1Ri8K6Dvm/GJKQEQIgQfgYrPIb9xpX1z3/33TWYKoAMH7BbjzNDuB5gsNyIDg=",
+    "expirationDate": 1774820493945,
+    "message": "Welcome to Novellis Early Access! Your license is valid until May 2026."
+  },
+  "messages": {
+    "upgradeModal": {
+      "title": "New Version Available",
+      "description": "A new version of Novellis is available. Please visit the download page to upgrade."
+    }
+  },
+  "links": {
+    "discord": "",
+    "github": ""
+  }
+}
