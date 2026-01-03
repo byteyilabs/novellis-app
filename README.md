@@ -25,7 +25,8 @@ We believe every writer should have access to professional-grade tools.
 
 1.  Head over to the [Releases](https://github.com/byteyilabs/novellis-app/releases) page.
 2.  Download the installer for your operating system (`.dmg` for macOS, `.exe` for Windows).
-3.  Install and launch Novellis.
+3.  **Security Note**: Our community builds are currently unsigned. On macOS, right-click the app and select "Open" to bypass Gatekeeper. On Windows, click "More info" -> "Run anyway" if prompted by SmartScreen.
+4.  Install and launch Novellis.
 4.  (Optional) Install [Ollama](https://ollama.ai/) if you wish to run AI models locally.
 5.  Configure your LLM settings (local or cloud) in the application settings.
 
